@@ -1,0 +1,291 @@
+repo_name: huhuhuHR/dynamic-threadpool
+report_id: b4a33114190d337eb60783edd51d5ecb
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T01:29:23+00:00'
+requested_by: magestacks
+provider: github
+branch: develop
+detected_tools_count: 23
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  version: '1.8'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/pom.xml
+  detection_source: Repo Metadata
+  last_updated_by: chen.ma
+  last_updated_on: 2021-06-16 04:25:22.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-console/src/main/resources/static/static/js/chunk-bc53b446.8898fbcb.js
+  detection_source: hippo4j-console/src/main/resources/static/static/js/chunk-bc53b446.8898fbcb.js
+  last_updated_by: chen.ma
+  last_updated_on: 2021-11-16 14:11:01.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-server/conf/hippo4j_manager.sql
+  detection_source: hippo4j-server/conf/hippo4j_manager.sql
+  last_updated_by: chen.ma
+  last_updated_on: 2021-10-28 16:10:14.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-auth/pom.xml
+  detection_source: hippo4j-auth/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-11-12 15:29:53.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-discovery/pom.xml
+  detection_source: hippo4j-discovery/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-08-14 12:36:59.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-auth/pom.xml
+  detection_source: hippo4j-auth/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-10-30 14:44:36.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool
+  detection_source: Repo Metadata
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-server/conf/application.properties
+  detection_source: hippo4j-server/conf/application.properties
+  last_updated_by: chen.ma
+  last_updated_on: 2021-12-25 11:34:25.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool
+  detection_source: Repo Metadata
+- name: cn.hutool:hutool-all
+  description: 提供丰富的Java工具方法，此模块为Hutool所有模块的打包汇总，最终形式为一个jar包
+  license: FSFAP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-auth/pom.xml
+  detection_source: hippo4j-auth/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-11-16 04:28:25.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-discovery/pom.xml
+  detection_source: hippo4j-discovery/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-08-14 12:36:59.000000000 Z
+- name: com.squareup.okhttp3:okhttp
+  description: 'Null'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-spring-boot-starter/pom.xml
+  detection_source: hippo4j-spring-boot-starter/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2022-01-01 10:06:15.000000000 Z
+- name: io.jsonwebtoken:jjwt
+  description: 'Java JWT: JSON Web Token for Java and Android'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-auth/pom.xml
+  detection_source: hippo4j-auth/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-11-12 15:29:53.000000000 Z
+- name: mysql:mysql-connector-java
+  description: MySQL JDBC Type 4 driver
+  license: GPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-auth/pom.xml
+  detection_source: hippo4j-auth/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-10-30 14:44:36.000000000 Z
+- name: org.aspectj:aspectjweaver
+  description: The AspectJ weaver introduces advices to java classes
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-tools/log-record-tool/pom.xml
+  detection_source: hippo4j-tools/log-record-tool/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-10-24 14:40:27.000000000 Z
+- name: org.hibernate.validator:hibernate-validator
+  description: Hibernate's Bean Validation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-console/pom.xml
+  detection_source: hippo4j-console/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-12-22 14:31:16.000000000 Z
+- name: org.projectlombok:lombok
+  description: 'Spice up your java: Automatic Resource Management'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-auth/pom.xml
+  detection_source: hippo4j-auth/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-11-12 15:29:53.000000000 Z
+- name: org.springframework.boot:spring-boot-configuration-processor
+  description: Spring Boot Configuration Processor
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-spring-boot-starter/pom.xml
+  detection_source: hippo4j-spring-boot-starter/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-11-04 13:52:51.000000000 Z
+- name: org.springframework.boot:spring-boot-starter
+  description: Core starter
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-auth/pom.xml
+  detection_source: hippo4j-auth/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-11-12 15:29:53.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-security
+  description: Starter for using Spring Security
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-auth/pom.xml
+  detection_source: hippo4j-auth/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-11-12 15:29:53.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-auth/pom.xml
+  detection_source: hippo4j-auth/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-11-12 15:29:53.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/dynamic-threadpool/blob/develop/hippo4j-auth/pom.xml
+  detection_source: hippo4j-auth/pom.xml
+  last_updated_by: chen.ma
+  last_updated_on: 2021-11-12 15:29:53.000000000 Z
